@@ -32,11 +32,16 @@
 
 ## Input:
 
+![Screenshot 2023-06-14 143138](https://github.com/NivethaKumar30/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119559844/740d32b4-0ac6-453c-a1ef-98dfc1c414b4)
+
+
 ### Output:
 
+![Screenshot 2023-06-14 143045](https://github.com/NivethaKumar30/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119559844/9471c2c2-d5ce-41e2-bd8b-938b01bdf1f9)
 
-### Name:
-### Register Number:
+
+### Name:NIVETHA  K
+### Register Number:212222230102
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
